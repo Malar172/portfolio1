@@ -61,12 +61,15 @@ Run index.html in a browser or use Live Server in VS Code.
 📸 Screenshots
 
 Add screenshots of:
+### Home Page
+![Home Page](porthome.png)
 
-Home Page
-About Section
-Skills Section
-Projects Section
-Contact Section
+### Project Page
+![Project page](projectpage.png)
+
+### Resume Page
+![Resume Page](resumepage.png)
+
 📚 What I Learned
 
 Through this project, I learned:
