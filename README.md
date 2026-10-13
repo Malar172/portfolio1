@@ -62,7 +62,7 @@ Run index.html in a browser or use Live Server in VS Code.
 
 Add screenshots of:
 ### Home Page
-![Project Page]https://github.com/Malar172/portfolio1#home-page
+![Project Page](https://github.com/Malar172/portfolio1#home-page)
 
 ### Project Page
 ![Project Page](portfolio1/projectpage.png)
