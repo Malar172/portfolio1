@@ -61,18 +61,16 @@ Run index.html in a browser or use Live Server in VS Code.
 📸 Screenshots
 
 Add screenshots of:
-
 ## Screenshots
 
 ### Home Page
-<img src="porthome.png" alt="Home Page" width="100%" />
+![Home Page](https://raw.githubusercontent.com/malar172/portfolio1/master/porthome.png)
 
 ### Project Page
-<img src="projectpage.png" alt="Project Page" width="100%" />
+![Project Page](https://raw.githubusercontent.com/malar172/portfolio1/master/projectpage.png)
 
 ### Resume Page
-<img src="resumepage.png" alt="Resume Page" width="100%" />
-
+![Resume Page](https://raw.githubusercontent.com/malar172/portfolio1/master/resumepage.png)
 
 
 📚 What I Learned
