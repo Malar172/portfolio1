@@ -62,12 +62,13 @@ Run index.html in a browser or use Live Server in VS Code.
 
 Add screenshots of:
 ### Home Page
-![Home Page]
+![Home Page](homepage.png)
+
 ### Project Page
-![Project page](projectpage.png)
+![Project Page](projectpage.png)
 
 ### Resume Page
-![Resume Page](portfolio1/resumepage.png)
+![Resume Page](resumepage.png)
 
 📚 What I Learned
 
