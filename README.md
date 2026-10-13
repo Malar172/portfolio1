@@ -64,7 +64,7 @@ Add screenshots of:
 ### Home Page
 ![Home Page]
 ### Project Page
-![Project page](portfolio1/projectpage.png)
+![Project page](projectpage.png)
 
 ### Resume Page
 ![Resume Page](portfolio1/resumepage.png)
