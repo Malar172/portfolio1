@@ -56,12 +56,8 @@ Clone the repository:
 Shell
 git clone https://github.com/malar172/portfolio1.git
  
-Open the project folder.
-Run index.html in a browser or use Live Server in VS Code.
-📸 Screenshots
 
-Add screenshots of:
-## Screenshots
+📸 Screenshots
 
 ### Home Page
 ![Home Page](https://raw.githubusercontent.com/malar172/portfolio1/master/porthome.png)
