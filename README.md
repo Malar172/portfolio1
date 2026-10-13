@@ -1,30 +1,39 @@
 # Portfolio Website
 
-A personal portfolio website created to showcase my skills, projects, education, certifications, and contact information. This website serves as an online professional profile and demonstrates my web development skills.
+A personal portfolio website built to showcase my skills, projects, education, certifications, and contact information. It works as an online professional profile and demonstrates my web development skills.
 
-## 🌐 Live Demo
+🔗 **Live Demo:** [malar172.github.io/portfolio1](https://malar172.github.io/portfolio1/)
 
-🔗 https://malar172.github.io/portfolio1/
+---
 
-## 📂 GitHub Repository
+## 📸 Screenshots
 
-🔗 https://github.com/malar172/portfolio1
+### Home Page
+<img src="https://raw.githubusercontent.com/malar172/portfolio1/master/porthome.png" alt="Home Page" width="100%" />
+
+### Project Page
+<img src="https://raw.githubusercontent.com/malar172/portfolio1/master/projectpage.png" alt="Project Page" width="100%" />
+
+### Resume Page
+<img src="https://raw.githubusercontent.com/malar172/portfolio1/master/resumepage.png" alt="Resume Page" width="100%" />
+
+---
 
 ## ✨ Features
 
-- Responsive Design
-- About Me Section
-- Skills Showcase
-- Projects Gallery
-- Education Details
-- Certifications Section
-- Contact Information
-- Modern and Clean User Interface
+- Responsive design for desktop, tablet, and mobile
+- About Me section
+- Skills showcase
+- Projects gallery
+- Education details
+- Certifications section
+- Contact information
+- Modern and clean user interface
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- React
+- Tailwind CSS
 - JavaScript
 - GitHub Pages
 - Visual Studio Code
@@ -33,60 +42,69 @@ A personal portfolio website created to showcase my skills, projects, education,
 
 ```text
 portfolio1
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets
-│   ├── images
-│   └── icons
-│
+├── public
+├── src
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── tailwind.config.js
+├── porthome.png
+├── projectpage.png
+├── resumepage.png
 └── README.md
+```
 
-🎯 Purpose
+## 🎯 Purpose
 
-The main purpose of this project is to:
+- Showcase my personal portfolio online
+- Highlight my skills and achievements
+- Present completed projects professionally
+- Improve my frontend development skills
 
-Showcase my personal portfolio online.
-Highlight my skills and achievements.
-Present completed projects professionally.
-Improve my frontend development skills.
-🚀 Installation
-Clone the repository:
-Shell
-git clone https://github.com/malar172/portfolio1.git
- 
+## 🚀 Getting Started
 
-📸 Screenshots
+1. Clone the repository:
 
-### Home Page
-![Home Page](https://raw.githubusercontent.com/malar172/portfolio1/master/porthome.png)
+   ```bash
+   git clone https://github.com/malar172/portfolio1.git
+   ```
 
-### Project Page
-![Project Page](https://raw.githubusercontent.com/malar172/portfolio1/master/projectpage.png)
+2. Go to the project folder:
 
-### Resume Page
-![Resume Page](https://raw.githubusercontent.com/malar172/portfolio1/master/resumepage.png)
+   ```bash
+   cd portfolio1
+   ```
 
+3. Install dependencies:
 
-📚 What I Learned
+   ```bash
+   npm install
+   ```
 
-Through this project, I learned:
+4. Start the development server:
 
-Responsive Web Design
-HTML Structure
-CSS Styling
-JavaScript Basics
-UI/UX Design Principles
-GitHub Deployment
-👩‍💻 Author
+   ```bash
+   npm start
+   ```
 
-Malarvizhi Raju
+5. Open `http://localhost:3000` in your browser.
 
-GitHub: https://github.com/malar172
+## 📚 What I Learned
 
-Portfolio: https://malar172.github.io/portfolio1/
+- Responsive web design
+- Component-based structure
+- Styling with Tailwind CSS
+- JavaScript basics
+- UI/UX design principles
+- Deploying with GitHub Pages
 
-📄 License
+## 👩‍💻 Author
+
+**Malarvizhi Raju**
+
+- GitHub: [malar172](https://github.com/malar172)
+- Portfolio: [malar172.github.io/portfolio1](https://malar172.github.io/portfolio1/)
+
+## 📄 License
 
 This project is created for educational and portfolio purposes.
