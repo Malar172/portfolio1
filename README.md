@@ -63,7 +63,7 @@ Run index.html in a browser or use Live Server in VS Code.
 Add screenshots of:
 
 ### Home Page
-<img src="porthome.png" alt="Home Page" width="100%">
+![Port Home](./portfolio1/porthome.png)
 
 ### Project Page
 <img src="projectpage.png" alt="Project Page" width="100%">
