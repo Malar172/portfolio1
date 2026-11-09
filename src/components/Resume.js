@@ -2,7 +2,7 @@ import ResumeImg from '../images/resume.png';
 
 export default function Resume(){
       const config ={
-        link: 'https://r.search.yahoo.com/_ylt=A2RSe0y4IsZqxQIAlBc_Ogx.;_ylu=Y29sbwNldS13ZXN0LTEEcG9zAzYEdnRpZAMEc2VjA3Ny/RV=2/RE=1792579512/RO=10/RU=https%3a%2f%2fontheline.trincoll.edu%2fimages%2fbookdown%2fsample-local-pdf.pdf/RK=2/RS=_.TkE0KeIiwlVZDxWi1HTF1rtNU-'
+        link: 'https://drive.google.com/file/d/1XJvDC-MaZDNGC17CQNnGQQolQ6NjNuY_/view?usp=sharing'
       }    
     
     return <section id='resume' className='flex flex-col md:flex-row bg-primary px-5'>

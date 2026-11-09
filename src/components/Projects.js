@@ -6,13 +6,13 @@ export default function Projects(){
         projects :[
             {
                  image:websiteImg1,
-                 description:'A Coffee Shop Website.Built with HTML,CSS and JavaScript.',
-                 link:'https://malar172.github.io/Coffee-shop/'
+                 description:'A E-Commerce Website.Built with React,Tailwindcss and Javascript.',
+                 link:'https://malar172.github.io/Mini-ecommerce/'
             },
             {
                 image:websiteImg2,
-                description:'A E-Commerce Website.Built with React,Tailwindcss and Javascript.',
-                link:''
+                description:'A Coffee Shop Website.Built with HTML,CSS and JavaScript.',
+                link:'https://malar172.github.io/Coffee-shop/'
             }
         ]
     }
